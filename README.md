@@ -1,5 +1,6 @@
 # javascript_jquery_jon_duckett
-Estudo e aplicação do livro Javascript e Jquery do autor Jon Duckett
+
+<strong>Estudo e aplicação do livro Javascript e Jquery do autor Jon Duckett</strong>
 
 O Livro é dividido em 13 capítulos sendo eles:
 
